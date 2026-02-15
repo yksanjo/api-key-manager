@@ -1,0 +1,19 @@
+{
+  "name": "api-key-manager",
+  "version": "1.0.0",
+  "description": "Simplified API key manager with minimal commands",
+  "main": "src/index.js",
+  "bin": {
+    "apik": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js"
+  },
+  "keywords": ["api", "key", "manager", "simple"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "dotenv": "^16.3.1"
+  }
+}
