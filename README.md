@@ -1,5 +1,12 @@
 # api-key-manager
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/api-key-manager/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/api-key-manager/actions)
+![License](https://img.shields.io/github/license/yksanjo/api-key-manager)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/api-key-manager)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/api-key-manager)
+
 ## Detailed Description
 
 api-key-manager is maintained as an industry-grade software project with production-ready engineering practices.  
